@@ -51,3 +51,5 @@ The goal was to create a robust and accurate system capable of identifying key h
 📌 Additional Notes
 The ECG dataset used for this project is sourced from the MIT-BIH Arrhythmia Database.
 This project is intended for research and educational purposes only and should not be used for direct clinical diagnosis
+
+** Note : This is a work in progress as the cnn pipeline is currently being build yet .
