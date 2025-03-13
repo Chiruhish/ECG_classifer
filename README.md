@@ -15,15 +15,14 @@ The goal was to create a robust and accurate system capable of identifying key h
 ---
 
 ### 🧠 **Machine Learning Model**  
-- ✅ Developed and trained a **Convolutional Neural Network (CNN)** for ECG signal classification.  
+- ✅ Developed and trained a ** Random forrest classifer** for ECG signal classification.  
 - ✅ Achieved **97% accuracy** in detecting arrhythmias and other cardiac anomalies.  
 - ✅ Applied data augmentation techniques to improve model generalization.  
 
 ---
 
 ### 🏆 **Anomaly Detection**  
-- ✅ Implemented a real-time anomaly detection pipeline using streaming ECG data.  
-- ✅ Detected irregularities such as **atrial fibrillation** and **ventricular tachycardia** with high sensitivity.  
+- ✅ Implemented a real-time anomaly detection pipeline using streaming ECG data.    
 - ✅ Provided real-time feedback for clinical decision-making.  
 
 ---
